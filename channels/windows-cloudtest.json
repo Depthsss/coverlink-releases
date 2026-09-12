@@ -1,7 +1,7 @@
 {
   "version": "0.1.2",
+  "pub_date": "2026-09-12T21:21:24.0000000+00:00",
   "notes": "Windows için ilk uygulama içi güncelleme ve mevcut eşleştirmeyi koruma testi.",
-  "pub_date": "09/12/2026 21:21:24",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbHJjWUxNOU5nWDdvaHpUcURnOGFldjBWZDY4a1R4Y05nb1lIN2RBRjdMZ0lWdGxBdEYreXg2MnN5Z0l6V041Z0FrbWhCNTZpdnBoOGtvMmdkajB1Q1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjQ3NjM2CWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuMl94NjQtc2V0dXAuZXhlCk5LSTZpZEk3RXN5L3ZhYXdHTnprKzNuSlc4ekN2YndhWThjMUFBOEJmOTBQK0tkNkhqQ0x0aHNYWFYvVVV2N1pjMGhWU1E1RnM3YVBjemEvamh2MkJRPT0K",
