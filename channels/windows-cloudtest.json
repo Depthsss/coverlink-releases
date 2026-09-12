@@ -1,0 +1,11 @@
+{
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbGdqV2E3cTNpUDB2SkovVHBIWjVzSWE1TFZ3dUVpRENPckFoYyt1VlRHc3FhQ2hTSDJOaVRRZzhqdXlxVDFrS3RmQWpSTGthYWgrWU5PM0pSbTJURXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjQ2ODE2CWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuMV94NjQtc2V0dXAuZXhlCkRvS1dlek4wUldCeFJWcE5wbG9LNjUva2NrdkhTVHFSQXlQcDRITzkwS1Bob2p6eUxRM0FNRURzUzBoRWJEU0ZkbFFHNHlhSTMydWFyOHFuc2poRkFnPT0K",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.1/coverlink-windows-cloudtest-0.1.1-x86_64-setup.exe"
+    }
+  },
+  "version": "0.1.1",
+  "notes": "Windows uygulamasına imzalı ve bağımsız güncelleme desteği eklendi.",
+  "pub_date": "09/12/2026 21:08:57"
+}
