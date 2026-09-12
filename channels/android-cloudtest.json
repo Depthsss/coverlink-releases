@@ -1,0 +1,21 @@
+{
+  "version": "0.1.2",
+  "notes": "Android için uygulama içinden imzalı güncelleme ve mevcut eşleştirmeyi koruma testi.",
+  "pub_date": "2026-09-12T21:33:25.0000000+00:00",
+  "platforms": {
+    "android-arm64-v8a": {
+      "version_code": 3,
+      "bytes": 35374408,
+      "application_id": "com.coverlink.app.cloudtest",
+      "sha256": "36152744ba943987bb9e865dbaa7e8747f16cefe0cf35bb8ce3bcf5b755dc2e5",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.2/coverlink-android-cloudtest-0.1.2.apk"
+    },
+    "android-x86_64": {
+      "version_code": 3,
+      "bytes": 35374408,
+      "application_id": "com.coverlink.app.cloudtest",
+      "sha256": "36152744ba943987bb9e865dbaa7e8747f16cefe0cf35bb8ce3bcf5b755dc2e5",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.2/coverlink-android-cloudtest-0.1.2.apk"
+    }
+  }
+}
