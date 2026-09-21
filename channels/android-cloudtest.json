@@ -1,21 +1,21 @@
 {
-  "notes": "Android yerel bileşen ve QR okuyucu yüklemesi düzeltildi; mevcut eşleştirme ve kasa korunarak güncellenir.",
-  "version": "0.1.4",
+  "version": "0.1.5",
+  "notes": "Uygulama açıkken otomatik eşitleme, güven yenileme ve gelen kutusu ön planda değilken yeni öğe bildirimleri.",
   "platforms": {
-    "android-arm64-v8a": {
-      "bytes": 35456328,
-      "version_code": 5,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.4/coverlink-android-cloudtest-0.1.4.apk",
-      "sha256": "b44fbf62d2eee23c25e3b2d26de027353cd42a9f16ecd095eab52ca1f6f7b757",
-      "application_id": "com.coverlink.app.cloudtest"
-    },
     "android-x86_64": {
-      "bytes": 35456328,
-      "version_code": 5,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.4/coverlink-android-cloudtest-0.1.4.apk",
-      "sha256": "b44fbf62d2eee23c25e3b2d26de027353cd42a9f16ecd095eab52ca1f6f7b757",
-      "application_id": "com.coverlink.app.cloudtest"
+      "sha256": "ed9cbd79ba9e335dbea5983b16bad10d76ed98ccf770f1383d17cfe8e778a2eb",
+      "application_id": "com.coverlink.app.cloudtest",
+      "version_code": 6,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.5/coverlink-android-cloudtest-0.1.5.apk",
+      "bytes": 35456348
+    },
+    "android-arm64-v8a": {
+      "sha256": "ed9cbd79ba9e335dbea5983b16bad10d76ed98ccf770f1383d17cfe8e778a2eb",
+      "application_id": "com.coverlink.app.cloudtest",
+      "version_code": 6,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.5/coverlink-android-cloudtest-0.1.5.apk",
+      "bytes": 35456348
     }
   },
-  "pub_date": "2026-09-12T22:00:26.0000000+00:00"
+  "pub_date": "2026-09-21T20:16:43.0000000+00:00"
 }
