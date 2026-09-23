@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-23T17:12:13.0000000+00:00",
-  "notes": "Ortak ve özel sohbetler, okunmamış konuşmalar ve bildirimden doğru sohbeti açma.",
+  "version": "0.1.5",
+  "notes": "Tek dosyada yaklaşık 100 MB aktarım desteği. 10 MiB üstü dosyalar için alıcı cihazların da bu sürüme güncellenmesi gerekir.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbGliZ3lHMWRMNTAyblhsMlJ4ckJIY1JDbUk5U2FGdFFBNGEzQXFKM2F5My9ZWkVHNmNmVThQb2pWa1V3TnI1T3lFazM0Vk4rSElqVGdoaTlNN1RFandNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTgzMjc0CWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuNF94NjQtc2V0dXAuZXhlCjh2ZFJGR3JuTU5RNUdRZHVtZmtMYnJsNHpoS3ZlMStCWDlyRSszNWIyL2JXUVZCK21LdlpsK0JNeFRhTkxibXBKZmR3NGhtVGlORjFzckNPRW9nS0NBPT0K",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.4/coverlink-windows-cloudtest-0.1.4-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbHJrSEpUeXJzdkNpTVg0clhzMkZQaTdkS0IyN05tNXVIcWNkc0MyUk00anVQSmNkOGNxcHF6Vm03UDU0Ri9aWWQ4WFplcTY5T3BhTXlEUkNhSjY5V3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTg2NTY4CWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuNV94NjQtc2V0dXAuZXhlCklRdlQxWkZBQ0xPK3gzMU9uWTh4ZnNYY21wT1RHQzNodTNXQ1dOUXJ5MHRsUHIxSGM4YnlVVGxrL3RWVHZSNjkzUlIyK3ZEVDVheUlSUWdnY1hqWUNnPT0K",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.5/coverlink-windows-cloudtest-0.1.5-x86_64-setup.exe"
     }
   },
-  "version": "0.1.4"
+  "pub_date": "2026-09-23T18:19:09.0000000+00:00"
 }
