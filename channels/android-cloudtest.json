@@ -1,21 +1,21 @@
 {
-  "version": "0.1.6",
-  "notes": "Ortak ve özel sohbetler, okunmamış konuşmalar ve doğrulanmış mesaj önizlemeli arka plan bildirimi.",
+  "pub_date": "2026-09-23T18:19:30.0000000+00:00",
+  "notes": "Tek dosyada yaklaşık 100 MB aktarım desteği. 10 MiB üstü dosyalar için alıcı cihazların da bu sürüme güncellenmesi gerekir.",
   "platforms": {
-    "android-x86_64": {
-      "version_code": 7,
-      "sha256": "e7deaf47c1535801fe019dbff84d5016a8517a457b030a1c95ea1b80d4b1e50b",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.6/coverlink-android-cloudtest-0.1.6.apk",
-      "bytes": 36318485,
-      "application_id": "com.coverlink.app.cloudtest"
-    },
     "android-arm64-v8a": {
-      "version_code": 7,
-      "sha256": "e7deaf47c1535801fe019dbff84d5016a8517a457b030a1c95ea1b80d4b1e50b",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.6/coverlink-android-cloudtest-0.1.6.apk",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.7/coverlink-android-cloudtest-0.1.7.apk",
       "bytes": 36318485,
-      "application_id": "com.coverlink.app.cloudtest"
+      "application_id": "com.coverlink.app.cloudtest",
+      "version_code": 8,
+      "sha256": "05afb6fcfc214ba03a7dd50249103c3a4cf18f7beea3fee83741e9a828b3ba7a"
+    },
+    "android-x86_64": {
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.7/coverlink-android-cloudtest-0.1.7.apk",
+      "bytes": 36318485,
+      "application_id": "com.coverlink.app.cloudtest",
+      "version_code": 8,
+      "sha256": "05afb6fcfc214ba03a7dd50249103c3a4cf18f7beea3fee83741e9a828b3ba7a"
     }
   },
-  "pub_date": "2026-09-23T17:12:36.0000000+00:00"
+  "version": "0.1.7"
 }
