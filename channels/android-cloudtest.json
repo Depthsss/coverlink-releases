@@ -1,21 +1,21 @@
 {
+  "notes": "Bildirim görselleri ve izinli eylemler; eski bildirim gönderim çağrılarıyla uyumluluk düzeltmesi.",
   "platforms": {
     "android-x86_64": {
-      "bytes": 36957313,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.18/coverlink-android-cloudtest-0.1.18.apk",
+      "version_code": 20,
       "application_id": "com.coverlink.app.cloudtest",
-      "version_code": 19,
-      "sha256": "5607b6f83d536e1845c0556e1a75c236aafb692ee1e0bcf1281099b5b8fd452f"
+      "sha256": "ac287aa7228607006d84b8dcf368bccb8d32f237bcd57d976a67a4310cd64b31",
+      "bytes": 36957317,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.19/coverlink-android-cloudtest-0.1.19.apk"
     },
     "android-arm64-v8a": {
-      "bytes": 36957313,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.18/coverlink-android-cloudtest-0.1.18.apk",
+      "version_code": 20,
       "application_id": "com.coverlink.app.cloudtest",
-      "version_code": 19,
-      "sha256": "5607b6f83d536e1845c0556e1a75c236aafb692ee1e0bcf1281099b5b8fd452f"
+      "sha256": "ac287aa7228607006d84b8dcf368bccb8d32f237bcd57d976a67a4310cd64b31",
+      "bytes": 36957317,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.19/coverlink-android-cloudtest-0.1.19.apk"
     }
   },
-  "notes": "Windows bildirimlerinde uygulama ve kişi görselleri ile izinli bildirim eylemleri.",
-  "pub_date": "2026-09-25T15:43:31.0000000+00:00",
-  "version": "0.1.18"
+  "version": "0.1.19",
+  "pub_date": "2026-09-25T15:49:47.0000000+00:00"
 }
