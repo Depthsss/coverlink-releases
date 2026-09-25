@@ -1,21 +1,21 @@
 {
-  "notes": "Sohbet balonları ve saatler yenilendi. Mesaja basılı tutarak düzenleme, Bende sil ve Herkeste sil eklendi. Güncellemeler ekranı yenilendi. Cihazlar arası işlemler için bağlı cihazları da güncelleyin.",
-  "version": "0.1.11",
-  "pub_date": "2026-09-25T07:13:40.0000000+00:00",
   "platforms": {
-    "android-arm64-v8a": {
-      "bytes": 36760689,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.11/coverlink-android-cloudtest-0.1.11.apk",
-      "version_code": 12,
-      "sha256": "0aeae11e7c3e9bfbe6dbafc0ca13f4f633c921ee6c99726541f972d363d472cf",
-      "application_id": "com.coverlink.app.cloudtest"
-    },
     "android-x86_64": {
-      "bytes": 36760689,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.11/coverlink-android-cloudtest-0.1.11.apk",
-      "version_code": 12,
-      "sha256": "0aeae11e7c3e9bfbe6dbafc0ca13f4f633c921ee6c99726541f972d363d472cf",
-      "application_id": "com.coverlink.app.cloudtest"
+      "version_code": 17,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.16/coverlink-android-cloudtest-0.1.16.apk",
+      "application_id": "com.coverlink.app.cloudtest",
+      "bytes": 36842625,
+      "sha256": "7b733a66abfe75d2ba77d7fdd6de3a293d92dfaa3b67bf1212e81b9834649d49"
+    },
+    "android-arm64-v8a": {
+      "version_code": 17,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.16/coverlink-android-cloudtest-0.1.16.apk",
+      "application_id": "com.coverlink.app.cloudtest",
+      "bytes": 36842625,
+      "sha256": "7b733a66abfe75d2ba77d7fdd6de3a293d92dfaa3b67bf1212e81b9834649d49"
     }
-  }
+  },
+  "version": "0.1.16",
+  "pub_date": "2026-09-25T10:16:54.0000000+00:00",
+  "notes": "Ayarlar ekranları yenilendi; bildirim, medya ve sohbet deneyimi iyileştirildi."
 }
