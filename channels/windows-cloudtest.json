@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Tek dosyada yaklaşık 100 MB aktarım desteği. 10 MiB üstü dosyalar için alıcı cihazların da bu sürüme güncellenmesi gerekir.",
+  "notes": "Sohbette mesaj işlemleri eklendi: Düzenle, Bende sil ve Herkeste sil. Mesaj balonları ve saatlerin görünümü iyileştirildi. Cihazlar arası işlemler için bağlı cihazları da güncelleyin.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbHJrSEpUeXJzdkNpTVg0clhzMkZQaTdkS0IyN05tNXVIcWNkc0MyUk00anVQSmNkOGNxcHF6Vm03UDU0Ri9aWWQ4WFplcTY5T3BhTXlEUkNhSjY5V3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTg2NTY4CWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuNV94NjQtc2V0dXAuZXhlCklRdlQxWkZBQ0xPK3gzMU9uWTh4ZnNYY21wT1RHQzNodTNXQ1dOUXJ5MHRsUHIxSGM4YnlVVGxrL3RWVHZSNjkzUlIyK3ZEVDVheUlSUWdnY1hqWUNnPT0K",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.5/coverlink-windows-cloudtest-0.1.5-x86_64-setup.exe"
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.6/coverlink-windows-cloudtest-0.1.6-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbGgzTklFM092bDBISXBnVWZ0YzBEWTVqYXFkM3RoVHBWbEc2NzJkUFRpV1pwc3JSUTB2Y1lXeUwwakFwTUZ6WGRqaStEdTRLM2ZaQ3E1bmhwK1FFb2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIwMzAzCWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuNl94NjQtc2V0dXAuZXhlCmozbTFYL0kvNUNVbHBQYU1RSU9zZ2kybWJzMnV4ei9BK0hzT3N4eW92YVVQczlNSHJtaVdDSndSV3ZWQ3hpZFQyOVZtTXZlQ0ppd3RqY0N3YUtXckFBPT0K"
     }
   },
-  "pub_date": "2026-09-23T18:19:09.0000000+00:00"
+  "version": "0.1.6",
+  "pub_date": "2026-09-25T07:12:32.0000000+00:00"
 }
