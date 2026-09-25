@@ -1,11 +1,11 @@
 {
-  "notes": "Sohbette mesaj işlemleri eklendi: Düzenle, Bende sil ve Herkeste sil. Mesaj balonları ve saatlerin görünümü iyileştirildi. Cihazlar arası işlemler için bağlı cihazları da güncelleyin.",
+  "notes": "Windows bildirimlerinde uygulama simgesi, kişi görseli ve telefonda yürütülen izinli eylemler.",
+  "version": "0.1.8",
+  "pub_date": "2026-09-25T15:47:18.0000000+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.6/coverlink-windows-cloudtest-0.1.6-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbGgzTklFM092bDBISXBnVWZ0YzBEWTVqYXFkM3RoVHBWbEc2NzJkUFRpV1pwc3JSUTB2Y1lXeUwwakFwTUZ6WGRqaStEdTRLM2ZaQ3E1bmhwK1FFb2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIwMzAzCWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuNl94NjQtc2V0dXAuZXhlCmozbTFYL0kvNUNVbHBQYU1RSU9zZ2kybWJzMnV4ei9BK0hzT3N4eW92YVVQczlNSHJtaVdDSndSV3ZWQ3hpZFQyOVZtTXZlQ0ppd3RqY0N3YUtXckFBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbGkyN3JyUTRucm1TeTdyTEN2cFEyZzNtbTRlMElRQWxBYUNPMExVT0lVRWYzZGIwVWJQb0tBdzNQTmo2L0MwQVVZaHBGcjA3VnpYTU5yU0tZcXh4QmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUxMTg4CWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuOF94NjQtc2V0dXAuZXhlCkFHZHNnNTBJQXRVS2dzZXQvMFF6U3BNK2ZUSFNrNk1ERDBKcW5HQmR1bEhWaFlWNU52K0J2UHFmTUV2MnRZTDVVQkIwMml1YjR3ZjVDZjNjK2ZwSEFRPT0K",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.8/coverlink-windows-cloudtest-0.1.8-x86_64-setup.exe"
     }
-  },
-  "version": "0.1.6",
-  "pub_date": "2026-09-25T07:12:32.0000000+00:00"
+  }
 }
