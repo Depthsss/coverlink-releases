@@ -1,21 +1,21 @@
 {
+  "notes": "Koyu tema ve cihaz kartları iyileştirildi; tüm uygulama bildirimlerini yansıtma seçeneği eklendi.",
+  "pub_date": "2026-09-25T10:45:36.0000000+00:00",
+  "version": "0.1.17",
   "platforms": {
     "android-x86_64": {
-      "version_code": 17,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.16/coverlink-android-cloudtest-0.1.16.apk",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.17/coverlink-android-cloudtest-0.1.17.apk",
+      "version_code": 18,
+      "bytes": 36842629,
       "application_id": "com.coverlink.app.cloudtest",
-      "bytes": 36842625,
-      "sha256": "7b733a66abfe75d2ba77d7fdd6de3a293d92dfaa3b67bf1212e81b9834649d49"
+      "sha256": "418ed9bd8a7eae9a4764a34c01c3ea9f61d9f824c0438dece39244a73ab7ef41"
     },
     "android-arm64-v8a": {
-      "version_code": 17,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.16/coverlink-android-cloudtest-0.1.16.apk",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.17/coverlink-android-cloudtest-0.1.17.apk",
+      "version_code": 18,
+      "bytes": 36842629,
       "application_id": "com.coverlink.app.cloudtest",
-      "bytes": 36842625,
-      "sha256": "7b733a66abfe75d2ba77d7fdd6de3a293d92dfaa3b67bf1212e81b9834649d49"
+      "sha256": "418ed9bd8a7eae9a4764a34c01c3ea9f61d9f824c0438dece39244a73ab7ef41"
     }
-  },
-  "version": "0.1.16",
-  "pub_date": "2026-09-25T10:16:54.0000000+00:00",
-  "notes": "Ayarlar ekranları yenilendi; bildirim, medya ve sohbet deneyimi iyileştirildi."
+  }
 }
