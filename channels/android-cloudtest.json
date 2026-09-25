@@ -1,21 +1,21 @@
 {
-  "pub_date": "2026-09-23T18:19:30.0000000+00:00",
-  "notes": "Tek dosyada yaklaşık 100 MB aktarım desteği. 10 MiB üstü dosyalar için alıcı cihazların da bu sürüme güncellenmesi gerekir.",
   "platforms": {
-    "android-arm64-v8a": {
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.7/coverlink-android-cloudtest-0.1.7.apk",
-      "bytes": 36318485,
-      "application_id": "com.coverlink.app.cloudtest",
-      "version_code": 8,
-      "sha256": "05afb6fcfc214ba03a7dd50249103c3a4cf18f7beea3fee83741e9a828b3ba7a"
-    },
     "android-x86_64": {
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.7/coverlink-android-cloudtest-0.1.7.apk",
-      "bytes": 36318485,
-      "application_id": "com.coverlink.app.cloudtest",
-      "version_code": 8,
-      "sha256": "05afb6fcfc214ba03a7dd50249103c3a4cf18f7beea3fee83741e9a828b3ba7a"
+      "sha256": "38e3cc8ee8a9498157c88e4859e2ada8718b4b257f4626b77d597ab5d287c998",
+      "version_code": 11,
+      "bytes": 36662385,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.10/coverlink-android-cloudtest-0.1.10.apk",
+      "application_id": "com.coverlink.app.cloudtest"
+    },
+    "android-arm64-v8a": {
+      "sha256": "38e3cc8ee8a9498157c88e4859e2ada8718b4b257f4626b77d597ab5d287c998",
+      "version_code": 11,
+      "bytes": 36662385,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.10/coverlink-android-cloudtest-0.1.10.apk",
+      "application_id": "com.coverlink.app.cloudtest"
     }
   },
-  "version": "0.1.7"
+  "notes": "QR eşleştirme ekranı ve sohbet mesajlarının görünümü iyileştirildi.",
+  "pub_date": "2026-09-25T05:20:07.0000000+00:00",
+  "version": "0.1.10"
 }
