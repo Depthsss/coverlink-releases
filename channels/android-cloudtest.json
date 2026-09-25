@@ -1,21 +1,21 @@
 {
+  "notes": "Sohbet balonları ve saatler yenilendi. Mesaja basılı tutarak düzenleme, Bende sil ve Herkeste sil eklendi. Güncellemeler ekranı yenilendi. Cihazlar arası işlemler için bağlı cihazları da güncelleyin.",
+  "version": "0.1.11",
+  "pub_date": "2026-09-25T07:13:40.0000000+00:00",
   "platforms": {
-    "android-x86_64": {
-      "sha256": "38e3cc8ee8a9498157c88e4859e2ada8718b4b257f4626b77d597ab5d287c998",
-      "version_code": 11,
-      "bytes": 36662385,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.10/coverlink-android-cloudtest-0.1.10.apk",
+    "android-arm64-v8a": {
+      "bytes": 36760689,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.11/coverlink-android-cloudtest-0.1.11.apk",
+      "version_code": 12,
+      "sha256": "0aeae11e7c3e9bfbe6dbafc0ca13f4f633c921ee6c99726541f972d363d472cf",
       "application_id": "com.coverlink.app.cloudtest"
     },
-    "android-arm64-v8a": {
-      "sha256": "38e3cc8ee8a9498157c88e4859e2ada8718b4b257f4626b77d597ab5d287c998",
-      "version_code": 11,
-      "bytes": 36662385,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.10/coverlink-android-cloudtest-0.1.10.apk",
+    "android-x86_64": {
+      "bytes": 36760689,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.11/coverlink-android-cloudtest-0.1.11.apk",
+      "version_code": 12,
+      "sha256": "0aeae11e7c3e9bfbe6dbafc0ca13f4f633c921ee6c99726541f972d363d472cf",
       "application_id": "com.coverlink.app.cloudtest"
     }
-  },
-  "notes": "QR eşleştirme ekranı ve sohbet mesajlarının görünümü iyileştirildi.",
-  "pub_date": "2026-09-25T05:20:07.0000000+00:00",
-  "version": "0.1.10"
+  }
 }
