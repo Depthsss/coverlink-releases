@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-09-26T15:02:39.0000000+00:00",
-  "version": "0.1.10",
-  "notes": "Bildirimler icin gorulmemis sayaci, toplu temizleme, zengin kartlar ve masaustu sohbet gorunumu iyilestirmeleri.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbG9RVFpZYXFvaEZkd3pha0hTRVJtRmdobEh1dTJ2bUk2OEVOUWpPaTZnMFM0MVR6cUp3UTkva084YnRzWmVGNnlIcS9kcnBPcDVnNXVqRkZJNTIrN0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDM0NTY2CWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuMTBfeDY0LXNldHVwLmV4ZQpHT1FGcWxhQmlTUXYzV3UwNE90M2ZLWVdDVDNzY0phSG1oU0JBNTRrK0o4QXlRSmpxSVc0N2w5bmc1VDIwUC9WWTNrMHl6QUlhd0lxT1JtZjEwUUFDUT09Cg==",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.10/coverlink-windows-cloudtest-0.1.10-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbGlMa3NzZDBiYjNNZUQ5WGVVQmtpeUwrRzhvSVV4R0N0a2taV3RBRUlxaXdEM01Jcm0ybjJUL213eEgrMFkrcWlXVHFkMldyT0duUnlnTnRNczBXclFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQ0MDgzCWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuMTRfeDY0LXNldHVwLmV4ZQpYZC83L0NzSnMvL25wZVJDc2pmbFVGbjdsNks3Q2NiOFFncFlQR2l3ajdsYWl2b1U5SzkzRDI2VEtiQVFrdVlTd05RYi9TQ1daUEZtOVEvM0FPK3REdz09Cg==",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.14/coverlink-windows-cloudtest-0.1.14-x86_64-setup.exe"
     }
-  }
+  },
+  "version": "0.1.14",
+  "notes": "Bildirim gruplama, toplu kaldırma ve daha hızlı eşitleme; medya önizlemesi ve okundu durumu",
+  "pub_date": "2026-09-26T17:46:58.0000000+00:00"
 }
