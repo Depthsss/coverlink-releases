@@ -1,21 +1,21 @@
 {
-  "version": "0.1.25",
+  "notes": "Bildirim kaldırmada gereksiz ön eşitleme kaldırıldı; toplu kaldırma ve bildirim gruplama",
   "platforms": {
-    "android-x86_64": {
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.25/coverlink-android-cloudtest-0.1.25.apk",
-      "application_id": "com.coverlink.app.cloudtest",
-      "version_code": 25,
-      "bytes": 36990085,
-      "sha256": "f80f7123a110316f53a181d24bc18f3c6d62f15d6cfe46ec801308dc70f0497b"
-    },
     "android-arm64-v8a": {
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.25/coverlink-android-cloudtest-0.1.25.apk",
-      "application_id": "com.coverlink.app.cloudtest",
-      "version_code": 25,
+      "sha256": "6a01c676c55ce1c959c3a7fc2776730439924d53ae9ef9c2f36ecee8d59a8c60",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.26/coverlink-android-cloudtest-0.1.26.apk",
       "bytes": 36990085,
-      "sha256": "f80f7123a110316f53a181d24bc18f3c6d62f15d6cfe46ec801308dc70f0497b"
+      "version_code": 26,
+      "application_id": "com.coverlink.app.cloudtest"
+    },
+    "android-x86_64": {
+      "sha256": "6a01c676c55ce1c959c3a7fc2776730439924d53ae9ef9c2f36ecee8d59a8c60",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.26/coverlink-android-cloudtest-0.1.26.apk",
+      "bytes": 36990085,
+      "version_code": 26,
+      "application_id": "com.coverlink.app.cloudtest"
     }
   },
-  "notes": "Bildirim gruplama, toplu kaldırma ve ekran kapalıyken zengin bildirim düzeltmeleri",
-  "pub_date": "2026-09-26T17:38:55.0000000+00:00"
+  "pub_date": "2026-09-26T17:46:39.0000000+00:00",
+  "version": "0.1.26"
 }
