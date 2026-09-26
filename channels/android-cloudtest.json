@@ -1,21 +1,21 @@
 {
-  "pub_date": "2026-09-26T15:03:02.0000000+00:00",
+  "version": "0.1.25",
   "platforms": {
-    "android-arm64-v8a": {
-      "sha256": "c6b594ef4af7784ef1e69013dcf653b7f23f4fc172db0c37264823edcad22cd5",
-      "bytes": 36957317,
-      "version_code": 21,
-      "application_id": "com.coverlink.app.cloudtest",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.20/coverlink-android-cloudtest-0.1.20.apk"
-    },
     "android-x86_64": {
-      "sha256": "c6b594ef4af7784ef1e69013dcf653b7f23f4fc172db0c37264823edcad22cd5",
-      "bytes": 36957317,
-      "version_code": 21,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.25/coverlink-android-cloudtest-0.1.25.apk",
       "application_id": "com.coverlink.app.cloudtest",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.20/coverlink-android-cloudtest-0.1.20.apk"
+      "version_code": 25,
+      "bytes": 36990085,
+      "sha256": "f80f7123a110316f53a181d24bc18f3c6d62f15d6cfe46ec801308dc70f0497b"
+    },
+    "android-arm64-v8a": {
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.25/coverlink-android-cloudtest-0.1.25.apk",
+      "application_id": "com.coverlink.app.cloudtest",
+      "version_code": 25,
+      "bytes": 36990085,
+      "sha256": "f80f7123a110316f53a181d24bc18f3c6d62f15d6cfe46ec801308dc70f0497b"
     }
   },
-  "notes": "Bildirimlerde uygulama ve kişi görselleri, uygun önizleme resmi ve açık HTTPS bağlantısı desteği.",
-  "version": "0.1.20"
+  "notes": "Bildirim gruplama, toplu kaldırma ve ekran kapalıyken zengin bildirim düzeltmeleri",
+  "pub_date": "2026-09-26T17:38:55.0000000+00:00"
 }
