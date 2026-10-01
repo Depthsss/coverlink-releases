@@ -1,21 +1,21 @@
 {
-  "notes": "Bildirim kaldırmada gereksiz ön eşitleme kaldırıldı; toplu kaldırma ve bildirim gruplama",
+  "notes": "Mesaj gönderimi artık kayıt sonrası hemen tetiklenir. Sohbet açıkken yeni mesajlar canlı bağlantıyla alınır; gönderim ve bildirim durumu gecikmeden güncellenir.",
   "platforms": {
     "android-arm64-v8a": {
-      "sha256": "6a01c676c55ce1c959c3a7fc2776730439924d53ae9ef9c2f36ecee8d59a8c60",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.26/coverlink-android-cloudtest-0.1.26.apk",
-      "bytes": 36990085,
-      "version_code": 26,
-      "application_id": "com.coverlink.app.cloudtest"
+      "bytes": 38448397,
+      "version_code": 40,
+      "application_id": "com.coverlink.app.cloudtest",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.41/coverlink-android-cloudtest-0.1.41.apk",
+      "sha256": "2b5f7e8eaee01f8ec9c176819e5925ec976d4d959925d8e1450e82e93801e641"
     },
     "android-x86_64": {
-      "sha256": "6a01c676c55ce1c959c3a7fc2776730439924d53ae9ef9c2f36ecee8d59a8c60",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.26/coverlink-android-cloudtest-0.1.26.apk",
-      "bytes": 36990085,
-      "version_code": 26,
-      "application_id": "com.coverlink.app.cloudtest"
+      "bytes": 38448397,
+      "version_code": 40,
+      "application_id": "com.coverlink.app.cloudtest",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.41/coverlink-android-cloudtest-0.1.41.apk",
+      "sha256": "2b5f7e8eaee01f8ec9c176819e5925ec976d4d959925d8e1450e82e93801e641"
     }
   },
-  "pub_date": "2026-09-26T17:46:39.0000000+00:00",
-  "version": "0.1.26"
+  "version": "0.1.41",
+  "pub_date": "2026-10-01T07:55:43.0000000+00:00"
 }
