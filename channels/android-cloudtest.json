@@ -1,21 +1,21 @@
 {
-  "version": "0.1.42",
-  "notes": "Klavyede alt menü gizlenir; cihaz düğmeleri ayrıldı. Bildirim uygulamaları arama ve seçim ekranından yönetilir; uzaktan bildirim eylemleri tek anahtarla açılır.",
-  "pub_date": "2026-10-01T08:43:55.0000000+00:00",
+  "version": "0.1.43",
   "platforms": {
     "android-x86_64": {
-      "sha256": "3a01583445b914f8b3ab5f3b62affcb697abde334c9e2d415fad6e5d3473570b",
-      "application_id": "com.coverlink.app.cloudtest",
       "bytes": 38497549,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.42/coverlink-android-cloudtest-0.1.42.apk",
-      "version_code": 41
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.43/coverlink-android-cloudtest-0.1.43.apk",
+      "sha256": "e5ec1744837b4b82e09e4d38672fa93b79fd4cc24cd9384c8df6e4a4402c8509",
+      "application_id": "com.coverlink.app.cloudtest",
+      "version_code": 42
     },
     "android-arm64-v8a": {
-      "sha256": "3a01583445b914f8b3ab5f3b62affcb697abde334c9e2d415fad6e5d3473570b",
-      "application_id": "com.coverlink.app.cloudtest",
       "bytes": 38497549,
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.42/coverlink-android-cloudtest-0.1.42.apk",
-      "version_code": 41
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.43/coverlink-android-cloudtest-0.1.43.apk",
+      "sha256": "e5ec1744837b4b82e09e4d38672fa93b79fd4cc24cd9384c8df6e4a4402c8509",
+      "application_id": "com.coverlink.app.cloudtest",
+      "version_code": 42
     }
-  }
+  },
+  "pub_date": "2026-10-01T12:16:46.0000000+00:00",
+  "notes": "Klavye açılınca alt menü gizlenir. Gönderilmiş fotoğraf ve videoların kaynak bağlantısı yeniden açılışta korunur; eski galeri bağlantıları onarılır."
 }
