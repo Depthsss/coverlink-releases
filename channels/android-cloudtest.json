@@ -1,21 +1,21 @@
 {
-  "version": "0.1.44",
-  "notes": "Büyük dosya aktarımı sırasında mesaj ve bildirim beklemeleri azaltıldı. Sohbetler son mesaja göre sıralanır; ekran yenilemeleri ve dosya kaydetme akışı iyileştirildi.",
+  "pub_date": "2026-10-02T08:27:28.0000000+00:00",
+  "version": "0.1.45",
+  "notes": "Bildirim komutları ve cevapları hızlandırıldı. Büyük video aktarımı sırasında küçük fotoğraflar ilerleyebilir; dosya hazırlığı diğer işlemleri bekletmez.",
   "platforms": {
     "android-arm64-v8a": {
-      "bytes": 38907149,
-      "sha256": "f8b5f5198695967010fdd5285c92ab6a8762a16a3e30d831a9d61de2aa2cc07b",
       "application_id": "com.coverlink.app.cloudtest",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.44/coverlink-android-cloudtest-0.1.44.apk",
-      "version_code": 43
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.45/coverlink-android-cloudtest-0.1.45.apk",
+      "bytes": 39120141,
+      "version_code": 44,
+      "sha256": "938a4106d4e5cacb180377ea85444ada26d1feb7f74c5268fbfe2288aea2d6a0"
     },
     "android-x86_64": {
-      "bytes": 38907149,
-      "sha256": "f8b5f5198695967010fdd5285c92ab6a8762a16a3e30d831a9d61de2aa2cc07b",
       "application_id": "com.coverlink.app.cloudtest",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.44/coverlink-android-cloudtest-0.1.44.apk",
-      "version_code": 43
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.45/coverlink-android-cloudtest-0.1.45.apk",
+      "bytes": 39120141,
+      "version_code": 44,
+      "sha256": "938a4106d4e5cacb180377ea85444ada26d1feb7f74c5268fbfe2288aea2d6a0"
     }
-  },
-  "pub_date": "2026-10-02T05:44:34.0000000+00:00"
+  }
 }
