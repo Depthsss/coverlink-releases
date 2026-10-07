@@ -1,11 +1,11 @@
 {
+  "pub_date": "2026-10-07T12:20:05.0000000+00:00",
+  "version": "0.1.34",
+  "notes": "Bildirimden yanıt yazma, desteklenen bağlantıları tarayıcıda açma ve etkin bildirimlerde eylem süresinin korunması. Bildirim ayrıntıları ve pencere tasarımı iyileştirildi.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbGlMa3NzZDBiYjNNZUQ5WGVVQmtpeUwrRzhvSVV4R0N0a2taV3RBRUlxaXdEM01Jcm0ybjJUL213eEgrMFkrcWlXVHFkMldyT0duUnlnTnRNczBXclFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQ0MDgzCWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuMTRfeDY0LXNldHVwLmV4ZQpYZC83L0NzSnMvL25wZVJDc2pmbFVGbjdsNks3Q2NiOFFncFlQR2l3ajdsYWl2b1U5SzkzRDI2VEtiQVFrdVlTd05RYi9TQ1daUEZtOVEvM0FPK3REdz09Cg==",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.14/coverlink-windows-cloudtest-0.1.14-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzdNR3JWQVVvbGpSSXh3OVpNdWxFN0dKVjRqd01CNEFXSDZ3YXhmOWxHSVF2RDJMa0VtaDJrZHcwTVBlc21abUVMN3RXcFhCaWJaSzZUb0FwSG1GUGxaVkJ5bXJ6endFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc1NTI3CWZpbGU6Q292ZXJMaW5rIMSwbnRlcm5ldCBUZXN0aV8wLjEuMzRfeDY0LXNldHVwLmV4ZQp0OUVCUmJNTU82MEdpKzRYSkpkU1NsWkpnd0twVU9ORS9kUlZzWXF0czlYbFRJSmFFUGZxb2FsZGkzYjdJakg5U0k1RXhiUCtBWk5WZksrdG5lSjRCdz09Cg==",
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/windows-cloudtest-v0.1.34/coverlink-windows-cloudtest-0.1.34-x86_64-setup.exe"
     }
-  },
-  "version": "0.1.14",
-  "notes": "Bildirim gruplama, toplu kaldırma ve daha hızlı eşitleme; medya önizlemesi ve okundu durumu",
-  "pub_date": "2026-09-26T17:46:58.0000000+00:00"
+  }
 }
