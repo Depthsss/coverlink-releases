@@ -1,21 +1,21 @@
 {
-  "pub_date": "2026-10-02T08:27:28.0000000+00:00",
-  "version": "0.1.45",
-  "notes": "Bildirim komutları ve cevapları hızlandırıldı. Büyük video aktarımı sırasında küçük fotoğraflar ilerleyebilir; dosya hazırlığı diğer işlemleri bekletmez.",
+  "version": "0.1.50",
   "platforms": {
-    "android-arm64-v8a": {
-      "application_id": "com.coverlink.app.cloudtest",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.45/coverlink-android-cloudtest-0.1.45.apk",
-      "bytes": 39120141,
-      "version_code": 44,
-      "sha256": "938a4106d4e5cacb180377ea85444ada26d1feb7f74c5268fbfe2288aea2d6a0"
-    },
     "android-x86_64": {
+      "version_code": 49,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.50/coverlink-android-cloudtest-0.1.50.apk",
+      "sha256": "9db2dac1af289e6f953687fc6764046be3663a8a844b2d52b4f735b24a8ebae9",
       "application_id": "com.coverlink.app.cloudtest",
-      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.45/coverlink-android-cloudtest-0.1.45.apk",
-      "bytes": 39120141,
-      "version_code": 44,
-      "sha256": "938a4106d4e5cacb180377ea85444ada26d1feb7f74c5268fbfe2288aea2d6a0"
+      "bytes": 39628701
+    },
+    "android-arm64-v8a": {
+      "version_code": 49,
+      "url": "https://github.com/Depthsss/coverlink-releases/releases/download/android-cloudtest-v0.1.50/coverlink-android-cloudtest-0.1.50.apk",
+      "sha256": "9db2dac1af289e6f953687fc6764046be3663a8a844b2d52b4f735b24a8ebae9",
+      "application_id": "com.coverlink.app.cloudtest",
+      "bytes": 39628701
     }
-  }
+  },
+  "pub_date": "2026-10-07T12:25:52.0000000+00:00",
+  "notes": "Bildirimden yanıt gönderme, etkin bildirimlerde eylemlerin ömrünün korunması ve desteklenen bildirim bağlantılarının bilgisayarda açılması."
 }
